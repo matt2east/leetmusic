@@ -1,0 +1,13 @@
+body {
+    font-family: 'VT323', monospace;    
+}
+p{
+    font-size: 20px;
+}
+.nav-link{
+    font-size: 20px;
+}
+
+.navbar-brand {
+    font-size: 28px;
+}
